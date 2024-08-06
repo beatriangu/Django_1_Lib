@@ -1,0 +1,19 @@
+Looking in indexes: https://pypi.python.org/simple
+Collecting git+https://github.com/jaraco/path.git
+  Cloning https://github.com/jaraco/path.git to /tmp/pip-req-build-1wk9p8mf
+  Running command git clone --filter=blob:none --quiet https://github.com/jaraco/path.git /tmp/pip-req-build-1wk9p8mf
+  Resolved https://github.com/jaraco/path.git to commit 34634dc494d8385c0b40a3bedcce5458983b3a5d
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: path
+  Building wheel for path (pyproject.toml): started
+  Building wheel for path (pyproject.toml): finished with status 'done'
+  Created wheel for path: filename=path-16.14.1.dev17+g34634dc-py3-none-any.whl size=25623 sha256=21629e14a728b5b28346aa15eaf85a2ce064964cb5d3a632b7e7a13d58789b86
+  Stored in directory: /tmp/pip-ephem-wheel-cache-plzf63hs/wheels/05/97/77/84a6ccf4f5f41dfcbbeb29075fa06cf285990f754500f88e62
+Successfully built path
+Installing collected packages: path
+Successfully installed path-16.14.1.dev17+g34634dc
