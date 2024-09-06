@@ -22,6 +22,11 @@ Used of psycopg2.
 ex05 Hello World
 Create a Django project and configure it to display "Hello World!" at http://localhost:8000/helloworld. 
 
+<p align="left">
+  <img src="https://github.com/beatriangu/Django_1_Lib/blob/main/Screenshot%20from%202024-09-06%2020-02-53.png?raw=true" alt="Miniatura" width="200"/>
+</p>
+
+
 
 
 
